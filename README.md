@@ -1,4 +1,4 @@
-# Hacktiv8 Data Science Fulltime Program Guidelines
+# learn ds
 
 This guidelines made with Jupyter Book. Jupyter Book is an open-source tool for building publication-quality books and documents from computational material.
 
